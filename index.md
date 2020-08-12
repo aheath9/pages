@@ -19,7 +19,6 @@ This is the splash page that links all of my different notebooks. These notebook
 
 ## Miscellaneous
 
-* [Binary Exploitation Notes](https://one2bla.me/binex)
 * [Pentesting Notes](https://pentesting.one2bla.me)
 * [Quizlet](https://quizlet.com/Austin_Heath30)
 
